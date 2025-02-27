@@ -1,9 +1,8 @@
 # 🛍️ E-Commerce Platform (Spring Boot + React) 🚀
 
-![E-Commerce Banner](https://via.placeholder.com/1000x300?text=E-Commerce+Platform)
 
 ## 🌟 Overview
-This is a **full-stack e-commerce platform** built using **Spring Boot** for the backend and **React (Vite)** for the frontend. The platform enables users to browse products, add them to the cart, and place orders securely. The project follows best practices in **REST API development, database management, and UI/UX design**.
+This is a **full-stack e-commerce platform** built using **Spring Boot** for the backend and **React (Vite)** for the frontend. The platform enables users to browse products, add them to the cart, update the product. The project follows best practices in **REST API development, database management, and UI/UX design**.
 
 ---
 
@@ -11,9 +10,8 @@ This is a **full-stack e-commerce platform** built using **Spring Boot** for the
 
 ### **🖥️ Backend (Spring Boot)**
 - 🏗 **Spring Boot** - RESTful API development
-- 🔐 **Spring Security & JWT** - Authentication & Authorization
 - 📦 **Spring Data JPA (Hibernate)** - ORM for database management
-- 🛢 **MySQL** - Relational database for storing products, users, and orders
+- 🛢 **H2** - Relational database for storing products, users, and orders
 - ✨ **Lombok** - Reducing boilerplate code in Java
 - 📜 **Swagger** - API documentation
 - 📦 **Maven** - Dependency management
@@ -29,12 +27,9 @@ This is a **full-stack e-commerce platform** built using **Spring Boot** for the
 ---
 
 ## ✨ Features
-- ✅ **User Authentication** - Secure login & registration (JWT-based)
 - 🛍️ **Product Management** - Browse, add, update, and delete products
 - 🛒 **Shopping Cart** - Add/remove products & manage cart items
-- 📦 **Order Processing** - Checkout & track order status
 - 🏢 **Admin Dashboard** - Manage users, orders & inventory
-- 💳 **Secure Payments** - Integrated with Razorpay/Stripe (optional)
 - 📄 **API Documentation** - Swagger UI for backend API reference
 
 ---
@@ -70,14 +65,11 @@ npm run dev
 
 ---
 
-## 🖼️ Project Screenshots
-> *(Add images of the homepage, product page, cart, and admin panel here.)*
-
----
-
 ## 🚀 Future Enhancements
+- ✅ **User Authentication** - Secure login & registration (JWT-based)
 - 💰 **Payment Gateway Integration** (Stripe, Razorpay)
 - ❤️ **Wishlist Feature**
+- 📦 **Order Processing** - Checkout & track order status
 - ⭐ **Product Reviews & Ratings**
 - 📩 **Email Notifications for Orders**
 - 🏪 **Multi-Vendor Support**
@@ -87,7 +79,6 @@ npm run dev
 ## 💡 Why This Project Stands Out
 ✔️ **Enterprise-Level Architecture**  
 ✔️ **Modular & Scalable Design**  
-✔️ **Secure Authentication & Role-Based Access**  
 ✔️ **Optimized for Performance & SEO**  
 ✔️ **Modern UI with Tailwind CSS**  
 
@@ -99,8 +90,8 @@ npm run dev
 ---
 
 ## 📞 Contact
-📧 **Email:** partha02bh@example.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+📧 **Email:** parthabhattacharya251@gmail.com.com  
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/parthasarathi-bhattacharya-0643b1213/)  
 🔗 **GitHub:** [Partha02Bh](https://github.com/Partha02Bh)  
 
 ---
