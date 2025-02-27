@@ -91,7 +91,7 @@ npm run dev
 
 ## 📞 Contact
 📧 **Email:** parthabhattacharya251@gmail.com.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/parthasarathi-bhattacharya-0643b1213/)  
+🔗 **LinkedIn:** [Parthasarathi Bhattacharya](https://www.linkedin.com/in/parthasarathi-bhattacharya-0643b1213/)  
 🔗 **GitHub:** [Partha02Bh](https://github.com/Partha02Bh)  
 
 ---
